@@ -26,7 +26,6 @@ Feel free to reach out via email: [emirkaabulut08@gmail.com](mailto:emirkaabulut
 
 
 
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&layout=compact&theme=radical">
