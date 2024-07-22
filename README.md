@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile!
 
+
 ## About Me
 
 I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physics, computing, and astronomy. Alongside my academic pursuits, I hold a professional certification in data science which has equipped me with advanced skills in various areas of data science and machine learning.
