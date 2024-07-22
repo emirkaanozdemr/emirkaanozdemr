@@ -14,7 +14,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 ### Skills and Expertise
 
-- **Programming Languages and Frameworks**: Python, JavaScript, HTML, CSS, Django, Streamlit, Flask, jQuery, .NET, C and Q#.
+- **Programming Languages and Frameworks**: Python, JavaScript, HTML, CSS, Bootstrap, Django, Streamlit, Flask, jQuery, .NET, C and Q#.
 
 - **Tools and Technologies**: Experienced with Tensorflow, Pytorch, Scikit-Learn, Numpy, Pandas, Sklearn, OpenCV, Conda, Jupyter, Spark, and various database management systems.
 
