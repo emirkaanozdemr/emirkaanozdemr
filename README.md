@@ -27,20 +27,22 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 
 
 
-# Languages and Frameworks
+### Languages and Frameworks
 
 
-# Python3 Libraries and Frameworks
+### Python3 Libraries and Frameworks
 
 
-# Deep Learning
+### Deep Learning
 
 
-# Quantum Computing
+### Quantum Computing
 
 
-# Platforms
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height="40" weight="40">
+### Platforms
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height="100" weight="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="100" weight="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="100" weight="100">
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
   <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&langs_count=100&layout=compact&theme=radical">
