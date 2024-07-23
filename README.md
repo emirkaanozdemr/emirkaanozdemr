@@ -39,8 +39,8 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 ### Quantum Computing
 | Q# | IBM Qiskit |
 |----------|----------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Q_mini.png" height="100" weight="100">|
-<img src="https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp" height="100" weight="100">|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Q_mini.png" height="100" width="100"> | <img src="https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp" height="100" width="100"> |
+
 
 
 ### Platforms
