@@ -17,7 +17,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 - **Programming Languages and Frameworks**: Python, JavaScript, HTML, CSS, Bootstrap, Django, Streamlit, Flask, jQuery, .NET, C and Q#.
 
-- **Tools and Technologies**: Experienced with Tensorflow, Pytorch, Scikit-Learn, Spark, Numpy, Pandas, Sklearn, Matplotlib, Seaborn, Plotly Express, OpenCV, Conda, Jupyter, Spark, Astropy and various database management systems.
+- **Tools and Technologies**: Experienced with Tensorflow, Pytorch, Scikit-Learn, Spark, Numpy, Pandas, Matplotlib, Seaborn, Plotly Express, OpenCV, Conda, Jupyter, Astropy and various database management systems.
 
 ## Contact Me
 
@@ -31,7 +31,9 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 
 
 ### Python3 Libraries and Frameworks
-
+| Scikit-Learn | Spark | Numpy | Pandas | Matplotlib | Seaborn | Plotly Express | OpenCV | Astropy | Streamlit | Flask | Django |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="100" width="100"> | <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="100" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_of_the_Astropy_Project.png" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="100" width="100"> |
 
 ### Deep Learning
 | Tensorflow | PyTorch |
