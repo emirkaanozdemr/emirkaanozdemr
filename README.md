@@ -15,7 +15,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 ### Skills and Expertise
 
-- **Programming Languages and Frameworks**: Python, JavaScript, HTML, CSS, Bootstrap, Django, Streamlit, Flask, jQuery, .NET, C and Q#.
+- **Programming Languages and Frameworks**: Python, JavaScript, HTML, CSS, Bootstrap, Django, Streamlit, Flask, jQuery, Visual Basic .NET, C and Q#.
 
 - **Tools and Technologies**: Experienced with Tensorflow, Pytorch, Scikit-Learn, Spark, Numpy, Pandas, Matplotlib, Seaborn, Plotly Express, OpenCV, Conda, Jupyter, Astropy and various database management systems.
 
@@ -27,7 +27,11 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 
 
 
-### Languages and Frameworks
+### Languages, Markup Languages and Frameworks
+| Python | JavaScript | HTML5 | CSS3 | Bootstrap | jQuery | Visual Basic .NET | C | Q# | Docker |
+| ------ | ----------- | ----- | ---- | --------- | ------ | ----------------- | - | -- | ------ |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="100" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Q_mini.png" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="100" width="100"> |
+
 
 
 ### Python3 Libraries and Frameworks
