@@ -66,3 +66,9 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=emirkaanozdemr)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sd338)  
