@@ -65,4 +65,4 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 </p>
 
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sd338)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emirkaanozdemr)](https://github.com/ryo-ma/github-profile-trophy)
