@@ -63,13 +63,7 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
   <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&langs_count=100&layout=compact&theme=radical">
 
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emirkaanozdemr)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-<img href="https://streak-stats.demolab.com/?user=emirkaanozdemr">GitHub streak stats </img>
+<img src="https://github-profile-trophy.vercel.app/?username=emirkaanozdemr"></img>
+<img src="https://streak-stats.demolab.com/?user=emirkaanozdemr"></img>
 
 </p>
