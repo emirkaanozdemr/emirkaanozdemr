@@ -63,4 +63,6 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
   <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&langs_count=100&layout=compact&theme=radical">
 </p>
+
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sd338)](https://github.com/ryo-ma/github-profile-trophy)
