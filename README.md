@@ -71,4 +71,4 @@ Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbul
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sd338)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emirkaanozdemr)  
