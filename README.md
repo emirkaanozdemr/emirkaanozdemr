@@ -21,7 +21,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 ## Contact Me
 
-Feel free to reach out via email: [emirkaanbulut08@gmail.com](mailto:emirkaanbulut08@gmail.com)
+Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 
 
 
