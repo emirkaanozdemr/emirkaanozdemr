@@ -69,5 +69,5 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
 </div>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
 </p>
