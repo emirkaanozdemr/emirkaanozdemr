@@ -64,4 +64,5 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
   <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&langs_count=100&layout=compact&theme=radical">
   <img src="https://github-profile-trophy.vercel.app/?username=emirkaanozdemr"></img>
   <img width="600" height="300" src="https://streak-stats.demolab.com/?user=emirkaanozdemr"></img>
+  <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
 </p>
