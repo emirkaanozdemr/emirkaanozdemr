@@ -66,3 +66,6 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
   <img width="600" height="300" src="https://streak-stats.demolab.com/?user=emirkaanozdemr"></img>
   <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
 </p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
+</div>
