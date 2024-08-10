@@ -61,10 +61,10 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
-  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true">
+  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true"></img>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirkaanozdemr&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img>
   <img src="https://github-profile-trophy.vercel.app/?username=emirkaanozdemr"></img>
   <img width="600" height="300" src="https://streak-stats.demolab.com/?user=emirkaanozdemr"></img>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirkaanozdemr&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
 </p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
