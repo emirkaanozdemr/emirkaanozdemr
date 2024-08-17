@@ -68,6 +68,7 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 </p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rennf93&theme=2077" height="180em" />
 </div>
 <p align="center">
  <img width="1000" src="assets/snake.svg" alt="snake"/>
