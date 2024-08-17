@@ -67,7 +67,7 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
   <img width="600" height="300" src="https://streak-stats.demolab.com/?user=emirkaanozdemr"></img>
 </p>
 <div id="header" align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emirkaanozdemr&theme=2077" height="180em" /><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emirkaanozdemr&theme=2077&langs_count=40" height="180em" /><br><br>
   <img src="https://komarev.com/ghpvc/?username=emirkaanozdemr&style=for-the-badge&color=orange" alt=""/>
 </div>
 <p align="center">
