@@ -23,11 +23,13 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s">
 
 
 
 
-### Languages, Markup Languages and Frameworks
+
+### Languages, Markup Lanimguages and Frameworks
 | Python | JavaScript | HTML5 | CSS3 | Bootstrap | jQuery | Visual Basic .NET | C | Q# | Docker |
 | ------ | ----------- | ----- | ---- | --------- | ------ | ----------------- | - | -- | ------ |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="100" width="100"><br> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="100" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Q_mini.png" height="100" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="100" width="100"> |
