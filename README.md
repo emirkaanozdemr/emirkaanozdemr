@@ -23,7 +23,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s">
+<a href="https://www.linkedin.com/in/emir-kaan-%C3%B6zdemir-8016442b9/"><img weight="20" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s"></a>
 
 
 
