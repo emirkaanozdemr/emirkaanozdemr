@@ -62,7 +62,7 @@ Feel free to reach out via email [to me](mailto:emirkaanbulut08@gmail.com)
 
 
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=emirkaanozdemr&repo=facemood&theme=tokyonight" />
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=emirkaanozdemr&repo=facemood&theme=tokyonight" /><br>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=emirkaanozdemr&show_icons=true&theme=vision-friendly-dark">
   <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkaanozdemr&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true"></img>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emirkaanozdemr&theme=2077" width="600" height="300" />
