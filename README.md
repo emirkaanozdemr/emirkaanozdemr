@@ -7,7 +7,7 @@ I am a student at Istanbul Erkek Lisesi with a strong passion for quantum physic
 
 ### Interests
 
-- **Quantum Physics and Computing**: I am deeply fascinated by the principles of quantum mechanics and their applications in computing. My interest lies in exploring how quantum algorithms can transform traditional computational methods.
+- **Quantum Physics and Computing**: I am deeply fascinated by the principles of quantum mechanics and their applications in computing. My interest lies in exploring how quantum machine learning algorithms can develop.
 
 - **Astronomy**: I have a keen interest in the cosmos and celestial phenomena. I enjoy stargazing and learning about the universe's mysteries, from planetary science to deep space exploration.
 
