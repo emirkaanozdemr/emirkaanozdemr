@@ -2,17 +2,16 @@
 Hi, I’m Emir, an AI-focused developer and researcher with a strong interest in machine learning, intelligent systems, and applied engineering. I represented my country at IOAI 2025 and have authored two research papers in the field. I enjoy working at the intersection of AI, software, and hardware, with a particular focus on building systems that solve real-world problems efficiently.
 
 ## Papers
-| Title | Abstract | Venue | Link |
-|------|----------|--------|------|
-| **EchoLLaMA: 3D-to-Speech with Multimodal AI** | We present a 3D-to-Speech model that transforms 3D images into spoken descriptions. Our approach integrates DETR and Moondream for vision processing, LLaMA-3.2-1B-Instruct (DPO-trained) for text generation, and a fine-tuned Orpheus-3B TTS model for speech synthesis. The system also enables conversational interaction via speech-based queries to LLaMA. | Preprints (2025) | http://dx.doi.org/10.20944/preprints202507.2291.v1 |
-| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | We introduce Superpositional Gradient Descent (SGD), a quantum-inspired optimizer that integrates gradient updates with quantum superposition via circuit perturbations. Implemented using PyTorch and Qiskit, it demonstrates faster convergence and lower loss than AdamW on both synthetic tasks and LLM fine-tuning, though hardware constraints limit scalability. | IEEE QAI 2025, Naples | https://arxiv.org/abs/2511.01918 \| https://ieeexplore.ieee.org/document/11344604 |
+| Title | Abstract | Venue | Link | Citation |
+|------|----------|--------|------|----------|
+| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | We introduce Superpositional Gradient Descent (SGD), a quantum-inspired optimizer linking gradient updates with quantum superposition via circuit perturbations. Implemented in PyTorch and Qiskit, it achieves faster convergence and lower loss than AdamW on synthetic and LLM tasks, though scalability is limited by hardware constraints. | IEEE International Conference on Quantum AI (QAI 2025), Naples | https://arxiv.org/abs/2511.01918 \| https://ieeexplore.ieee.org/document/11344604 | @inproceedings{Pamuk_2025, title={Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training}, booktitle={2025 IEEE International Conference on Quantum Artificial Intelligence (QAI)}, publisher={IEEE}, year={2025}, author={Pamuk, Ahmet Erdem and Özdemir, Emir Kaan and Kocabay, Şuayp Talha}, DOI={10.1109/qai63978.2025.00036} } |
+| **EchoLLaMA: 3D-to-Speech with Multimodal AI** | We present a 3D-to-Speech model that transforms 3D images into spoken descriptions. Our approach integrates DETR and Moondream for vision analysis, LLaMA-3.2-1B-Instruct (DPO-trained) for text generation, and a fine-tuned Orpheus-3B TTS model for speech synthesis. The system also supports conversational speech-based interaction with LLaMA. | Preprints (2025) | http://dx.doi.org/10.20944/preprints202507.2291.v1 | @article{202507.2291, doi={10.20944/preprints202507.2291.v1}, journal={Preprints}, year={2025}, month={July}, author={Ahmet Erdem Pamuk and Emir Kaan Ozdemir and Şuayp Talha Kocabay}, title={EchoLLaMA: 3D-to-Speech with Multimodal AI} } |
 
 
 ## Contact Me
 
 Feel free to reach out via email [to me](mailto:emirkaanozdemir@gmail.com)
 
-<a href="https://www.linkedin.com/in/emir-kaan-%C3%B6zdemir-8016442b9/"><img weight="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s"></a>
 
 
 
