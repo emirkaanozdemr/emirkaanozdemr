@@ -2,10 +2,10 @@
 Hi, I’m Emir, an AI-focused developer and researcher with a strong interest in machine learning, intelligent systems, and applied engineering. I represented my country at IOAI 2025 and have authored two research papers in the field. I enjoy working at the intersection of AI, software, and hardware, with a particular focus on building systems that solve real-world problems efficiently.
 
 ## Papers
-| Title | Abstract | Venue | Link |
-|------|----------|--------|------|
-| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | Large language models (LLMs) are increasingly trained with classical optimization techniques like AdamW to improve convergence and generalization. However, the mechanisms by which quantum-inspired methods enhance classical training remain underexplored. We introduce Superpositional Gradient Descent (SGD), a novel optimizer linking gradient updates with quantum superposition by injecting quantum circuit perturbations. We present a mathematical framework and implement hybrid quantum‑classical circuits in PyTorch and Qiskit. On synthetic sequence classification and large‑scale LLM fine‑tuning, SGD converges faster and yields lower final loss than AdamW. Despite promising results, scalability and hardware constraints limit adoption. Overall, this work provides new insights into the intersection of quantum computing and deep learning, suggesting practical pathways for leveraging quantum principles to control and enhance model behavior. | IEEE International Conference on Quantum AI (QAI 2025), Naples | https://arxiv.org/abs/2511.01918 \| https://ieeexplore.ieee.org/document/11344604 |
-| **EchoLLaMA: 3D-to-Speech with Multimodal AI** | We present a 3D-to-Speech model that transforms 3D images into spoken descriptions. Our approach integrates four models: DETR and Moondream for image analysis, LLaMA-3.2-1B-Instruct (trained with DPO) for generating textual descriptions, and Orpheus-3B-0.1-ft TTS model that we fine-tuned for speech synthesis. The training data for LLaMA were generated using the DeepSeek-V3-0324 model and the base model itself for the DPO Reinforcement Learning technique. In addition, users can interact with the system by asking LLaMA questions via speech input, allowing a dynamic and conversational experience. | Preprints (2025) | http://dx.doi.org/10.20944/preprints202507.2291.v1 |
+| Title | Venue | Link |
+|------|--------|------|
+| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | IEEE International Conference on Quantum AI (QAI 2025), Naples | https://arxiv.org/abs/2511.01918 \| https://ieeexplore.ieee.org/document/11344604 |
+| **EchoLLaMA: 3D-to-Speech with Multimodal AI** | Preprints (2025) | http://dx.doi.org/10.20944/preprints202507.2291.v1 |
 
 ## Contact Me
 
