@@ -4,7 +4,8 @@ Hi, I’m Emir, an AI-focused developer and researcher with a strong interest in
 ## Papers
 | Title | Venue | Link |
 |------|--------|------|
-| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | IEEE International Conference on Quantum AI (QAI 2025), Naples | https://arxiv.org/abs/2511.01918 \| https://ieeexplore.ieee.org/document/11344604 |
+|**QuChaTeR: A Hybrid Quantum-Chaotic Temporal Framework for Earthquake Prediction**|IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona|https://ieeexplore.ieee.org/abstract/document/11460318/|
+| **Superpositional Gradient Descent: Harnessing Quantum Principles for Model Training** | IEEE International Conference on Quantum AI (QAI 2025), Naples | https://arxiv.org/abs/2511.01918 | https://ieeexplore.ieee.org/document/11344604 |
 | **EchoLLaMA: 3D-to-Speech with Multimodal AI** | Preprints (2025) | http://dx.doi.org/10.20944/preprints202507.2291.v1 |
 
 ## Contact Me
