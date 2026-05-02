@@ -1,5 +1,5 @@
 # Greetings
-Hi, I’m Emir, an AI-focused developer and researcher with a strong interest in machine learning, intelligent systems, and applied engineering. I represented my country at IOAI 2025 and have authored two research papers in the field. I enjoy working at the intersection of AI, software, and hardware, with a particular focus on building systems that solve real-world problems efficiently.
+Hi, I’m Emir, an AI-focused developer and researcher with a strong interest in machine learning, intelligent systems, and applied engineering. I represented my country at IOAI 2025 and have authored three research papers in the field. I enjoy working at the intersection of AI, software, and hardware, with a particular focus on building systems that solve real-world problems efficiently.
 
 ## Papers
 | Title | Venue | Link |
